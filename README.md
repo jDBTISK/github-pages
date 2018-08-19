@@ -1,5 +1,5 @@
-# Jupyter notebook スライドショー
+# jDBTISK Github Pages
 
 ## Overview
 
-Jupyter notebook を用いて作成したスライドショーを Github Pages で表示するサンプル
+Github Pages 使ってみたかったので
